@@ -24,4 +24,4 @@
         <input type="submit" class="btn btn-info" value="Registrar">
       </div>
     </div>
-  </form>
+  </form> hola mundo git
